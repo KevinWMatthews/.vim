@@ -7,3 +7,6 @@
 [submodule "bundle/vim-tmux-navigator"]
 	path = bundle/vim-tmux-navigator
 	url = git@github.com:christoomey/vim-tmux-navigator.git
+[submodule "bundle/EnhCommentify.vim"]
+	path = bundle/EnhCommentify.vim
+	url = git@github.com:vim-scripts/EnhCommentify.vim.git
