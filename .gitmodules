@@ -13,3 +13,6 @@
 [submodule "bundle/QuickBuf"]
 	path = bundle/QuickBuf
 	url = git@github.com:vim-scripts/QuickBuf.git
+[submodule "bundle/vim-ruby"]
+	path = bundle/vim-ruby
+	url = git@github.com:vim-ruby/vim-ruby.git
