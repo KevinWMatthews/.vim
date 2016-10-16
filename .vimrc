@@ -122,7 +122,7 @@ nnoremap <Space>r :!clear; rake<CR>
 "colorscheme molokai    " This doesn't work properly :(
 "colorscheme slate      " This doesn't change the color of C code that is
 "commented out.
-colorscheme default
+" colorscheme default
 
 
 "--------------------------------------------------
